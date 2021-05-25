@@ -3,9 +3,10 @@
 ### API END-POINT
 
 ##### product list (GET): https://ecommerceserverr.herokuapp.com/api/products
-
 ##### product details (GET): https://ecommerceserverr.herokuapp.com/api/products/{_id}
 
 ##### category list (GET): https://ecommerceserverr.herokuapp.com/api/products/category
+##### category filter (GET):https://ecommerceserverr.herokuapp.com/api/products/category={category}
+
 ##### user register (POST): https://ecommerceserverr.herokuapp.com/api/users/register
 ##### user signIn (POST) : https://ecommerceserverr.herokuapp.com/api/users/signin
